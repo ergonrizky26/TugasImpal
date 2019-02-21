@@ -1,0 +1,11 @@
+Nama Aplikasi : Sistem Informasi Apotik
+
+Functional Requirements :
+- Sistem mampu melayani pemilihan barang yang dibeli dan perhitungan harga dari barang yang diplih
+- Sistem mampu melayani pendaftaran untuk user yang ingin menggunakan fasilitas sistem
+- Sistem dapat melakukan pencarian barang, sehingga user dapat dengan cepat mengetahui ketersediaan barang
+- Fasilitas login untuk admin, pegawai dan kasir untuk menghindari penyalahgunaan hak akses
+- Admin dan karyawan dapat melihat rekapitulasi hasil penjualan dan hasil pembelian
+- Admin dan karyawan dapat melihat persediaan barang
+- Sistem dapat melaporkan pembelian obat dari supplier
+- Sistem dapat melaporkan penjualan obat ke konsumen
