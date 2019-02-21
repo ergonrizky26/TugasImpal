@@ -1,0 +1,20 @@
+Non Functional Requirements :
+* Usability Requirements
+- Tampilan yang disesuaikan dengan pengguna
+- Kemudahan dalam mengakses aplikasi
+
+* Open Source
+- Aplikasi menggunakan Development Tool yang free
+
+* Security Requirements
+- Adanya password yang harus terdiri dari minimal 5 dan maksimal 15 karakter
+- Untuk pertama kali login menggunakan username dan password yang telah ditentukan untuk masing-masing actor
+
+* Performance Requirements
+- Memonitor bagian penting dari halaman web
+- Server harus bersih dari virus
+
+* Support and Operability Requirements
+- Pengecekan pada sistem apabila terjadi kesalahan pada sistem tersebut
+- Menyediakan menu "Help" untuk mempermudah menggunakan sistem
+
